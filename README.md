@@ -1,2 +1,2 @@
 # pbINFO
-Aici vor fi rezolvate in limbajul C++ probleme de pe platforma pbinfo.
+Aici vor fi rezolvate in probleme de pe platforma pbinfo.
