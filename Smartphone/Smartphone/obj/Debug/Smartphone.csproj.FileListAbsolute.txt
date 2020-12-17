@@ -1,0 +1,7 @@
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\bin\Debug\Smartphone.exe.config
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\bin\Debug\Smartphone.exe
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\bin\Debug\Smartphone.pdb
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\obj\Debug\Smartphone.csprojAssemblyReference.cache
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\obj\Debug\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\obj\Debug\Smartphone.exe
+C:\Users\Daria\source\repos\daria979\pbINFO\Smartphone\Smartphone\obj\Debug\Smartphone.pdb
